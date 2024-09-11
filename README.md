@@ -20,14 +20,7 @@ The script supports the following  in the password file
 
 ## Technologies and Tools
 
-- ![Python](https://img.shields.io/badge/Python%203.x-3776AB?style=for-the-badge&logo=python&logoColor=white) **Python 3.x**: The main programming language used.
-- ![Requests](https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white) **Requests**: For making HTTP requests.
-- ![Rich](https://img.shields.io/badge/Rich-3776AB?style=for-the-badge&logo=python&logoColor=white) **Rich**: For colorful console output.
-- ![urllib3](https://img.shields.io/badge/urllib3-3776AB?style=for-the-badge&logo=python&logoColor=white) **urllib3**: For handling HTTP requests.
-- ![alive_progress](https://img.shields.io/badge/alive__progress-3776AB?style=for-the-badge&logo=python&logoColor=white) **alive_progress**: For displaying progress bars.
-- ![concurrent.futures](https://img.shields.io/badge/concurrent.futures-3776AB?style=for-the-badge&logo=python&logoColor=white) **concurrent.futures**: For multithreading.
-
-
+![Python](https://img.shields.io/badge/Python%203.x-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Requests](https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Rich](https://img.shields.io/badge/Rich-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![urllib3](https://img.shields.io/badge/urllib3-3776AB?style=for-the-badge&logo=python&logoColor=white) ![alive_progress](https://img.shields.io/badge/alive__progress-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Installation
 
