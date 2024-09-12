@@ -51,7 +51,8 @@ The script supports the following  in the password file
 ---
 ## Example
 
-![image](https://github.com/user-attachments/assets/39793495-6591-4bc9-97c1-4b5d33c6cad7)
+![image](https://github.com/user-attachments/assets/e9c35714-2eed-4dee-90c7-3295ca759e8b)
+
 
 ---
 ## Notes
