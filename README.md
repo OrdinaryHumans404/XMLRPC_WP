@@ -69,9 +69,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) **D-V** 
 
-## Greets To
-
-- k4l0nk - eLV1n4 - h0rCuX - X-Line
 
 ## Acknowledgements
 
